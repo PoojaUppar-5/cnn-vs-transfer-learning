@@ -1,6 +1,6 @@
 # CNN vs Transfer Learning — Image Classification
 
-Deep Neural Networks (AIMLCZG511, BITS Pilani WILP) — Assignment 2. Compares a custom-built Convolutional Neural Network against a ResNet50-based transfer learning model on the [Cats vs Dogs](https://www.tensorflow.org/datasets/catalog/cats_vs_dogs) dataset (`tensorflow_datasets`, ~23k images, 2 classes).
+Deep Neural Networks. Compares a custom-built Convolutional Neural Network against a ResNet50-based transfer learning model on the [Cats vs Dogs](https://www.tensorflow.org/datasets/catalog/cats_vs_dogs) dataset (`tensorflow_datasets`, ~23k images, 2 classes).
 
 ## Contents
 
